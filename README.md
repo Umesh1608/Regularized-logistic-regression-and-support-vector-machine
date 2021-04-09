@@ -1,6 +1,6 @@
 # Regularized-logistic-regression-and-support-vector-machine
 
-#Problem1.py file corresponds to Regularized logistic Regression
+### Problem1.py file corresponds to Regularized logistic Regression
 
 Train and test a regularized logistic regression model one two data sets, namely the breast
 cancer and sonar data sets which are available here
